@@ -11,7 +11,7 @@
 		<p [style.font-size]="fontSize.paragraph" class="intro-description">{{'personalisedcard.introDescription' | translate}}</p>
 		<p [style.font-size]="fontSize.paragraph" class="intro-description">{{'personalisedcard.mainlabel' | translate}}</p>
 		<table style="width:100%;" dir="{{sitealignment}}">
-			<tr><mat-grid-list [cols]="cols" rowHeight="9rem" gutterSize="10px">
+			<tr><mat-grid-list [cols]="cols" rowHeight="10rem" gutterSize="10px">
 			  <mat-grid-tile [colspan]="dataCols" [rowspan]="3">
 				<td [style.width] = "width">
 					<table class="fixed" *ngFor="let data of schema; let i = index" style="width:100%;">
@@ -36,7 +36,7 @@
 								</mat-menu>
 							</td>
 						</tr>
-					</table>					
+					</table>
 				</td>
 			  </mat-grid-tile>
 			  <mat-grid-tile [colspan]="previewCols" [rowspan]="3">
@@ -79,5 +79,5 @@
 				<td style="float:right;width: 100%" colspan="2"><button class="download-btn" [disabled]="downloadBtnDisabled" id="downloadFileBtn" mat-raised-button  (click)="downloadFile()">{{'personalisedcard.downloadbutton' | translate}}</button></td>
 			</tr>
 		</table>
-	</mat-card>	
+	</mat-card>
 </div>

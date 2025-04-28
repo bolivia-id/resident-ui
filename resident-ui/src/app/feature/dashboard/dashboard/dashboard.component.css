@@ -98,14 +98,14 @@ div.item-card:hover{
 .item-card:hover  .mat-card-subtitle{
   color: #F4F4F4;
   font-size: 14px;
-} 
- 
+}
+
 .item-card:hover  .uin-service-list{
   color: #F4F4F4;
-}  
+}
 .item-card:hover  .ara-uin-service-list{
   color: #F4F4F4;
-}  
+}
 
 .item-card>mat-card {
   border: transparent;
