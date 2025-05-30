@@ -267,7 +267,7 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "طلب إدارة المعرف",
                 "checked": false
-            },
+            }
         },
         "statusTypeFilter": {
             "ALL": {

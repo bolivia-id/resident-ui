@@ -267,7 +267,7 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "ID प्रबंधन अनुरोध",
                 "checked": false
-            },
+            }
         },
         "statusTypeFilter": {
             "ALL": {
