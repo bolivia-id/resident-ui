@@ -267,7 +267,7 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "Demande de gestion de l'identifiant",
                 "checked": false
-            },
+            }
         },
         "statusTypeFilter": {
             "ALL": {
