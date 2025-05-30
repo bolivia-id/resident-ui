@@ -267,7 +267,7 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "Solicitud de gestión de ID",
                 "checked": false
-            },
+            }
         },
         "statusTypeFilter": {
             "ALL": {
