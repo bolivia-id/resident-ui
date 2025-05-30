@@ -267,7 +267,7 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "ID Management Request",
                 "checked": false
-            },
+            }
         },
         "statusTypeFilter": {
             "ALL": {
