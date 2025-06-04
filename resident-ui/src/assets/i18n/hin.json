@@ -267,10 +267,6 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "ID प्रबंधन अनुरोध",
                 "checked": false
-            },
-            "DATA_SHARE_REQUEST": {
-                "serviceType": "डेटा साझा करने का अनुरोध",
-                "checked": false
             }
         },
         "statusTypeFilter": {
@@ -547,8 +543,6 @@
         "otpPopupDescription": "एक समय पासवर्ड (OTP) भेजा गया है",
         "loginSuccessfully": "प्रिय निवासी, आपने सफलतापूर्वक लॉगिन किया है",
         "successRemainMsg": "प्री-भरी हुई EID के साथ सेवा अनुरोध को ट्रैक करने के लिए।",
-        "passwordCombinationHeading": "पासवर्ड की कॉम्बिनेशन: ",
-        "passwordCombination": "अपने पहले नाम के पहले चार अक्षरों को बड़े अक्षरों में और अपने जन्म के वर्ष को। उदाहरण के लिए: यदि आपका नाम Johnny Depp है और आपका जन्मतिथि 09/06/1963 है, तो आपका पासवर्ड JOHN1963 होगा।",
         "SuccessLogin": "आपने सफलतापूर्वक लॉगिन किया है।",
         "successLogout": "आपने सफलतापूर्वक लॉगआउट किया है। ",
         "dearResident": "प्रिय निवासी,",
@@ -607,7 +601,7 @@
             "deletedSuccessfully": "आपका VID सफलतापूर्वक इवेंट ID: $eventId के खिलाफ हटा दिया गया है।"
         },
         "personalisedcardMessages": {
-            "downloadedSuccessFully": "आपका व्यक्तिगत कार्ड सफलतापूर्वक इवेंट ID: $eventId के खिलाफ डाउनलोड किया गया है। पासवर्ड आपके पंजीकृत ईमेल ID या फ़ोन नंबर पर भेजा जाएगा।"
+            "downloadedSuccessFully": "आपका व्यक्तिगत कार्ड सफलतापूर्वक इवेंट ID: $eventId के खिलाफ डाउनलोड किया गया है।"
         },
         "sharewithpartner": {
             "needPartner": "कृपया आगे बढ़ने के लिए एक साझेदार चुनें।",
