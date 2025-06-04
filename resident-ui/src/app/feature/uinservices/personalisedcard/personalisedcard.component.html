@@ -60,6 +60,9 @@
 							<td *ngIf="dataDisplay['UIN']" ><label [style.font-size]="fontSize.breadcrumb"  style="color: #666666;">{{dataDisplay['UIN']['label']}}</label><br><span [style.font-size]="fontSize.paragraph"  class="detailinfo">{{dataDisplay['UIN']['value']}}</span></td>
 							<td colspan='2' *ngIf="dataDisplay['perpetualVID']" ><label style="color: #666666;" [style.font-size]="fontSize.breadcrumb" >{{dataDisplay['perpetualVID']['label']}}</label><br><span class="detailinfo" [style.font-size]="fontSize.paragraph" >{{dataDisplay['perpetualVID']['value']}}</span></td>
 						</tr>
+            <tr *ngIf="dataDisplay['passport']">
+              <td  colspan='3'><label [style.font-size]="fontSize.breadcrumb"  style="color: #666666;">{{dataDisplay['passport']['label']}}</label><br><span [style.font-size]="fontSize.paragraph"  class="detailinfo">{{dataDisplay['passport']['value']}}</span></td>
+            </tr>
 						<tr *ngIf="dataDisplay['phone']">
 							<td  colspan='3'><label [style.font-size]="fontSize.breadcrumb"  style="color: #666666;">{{dataDisplay['phone']['label']}}</label><br><span [style.font-size]="fontSize.paragraph"  class="detailinfo">{{dataDisplay['phone']['value']}}</span></td>
 						</tr>
