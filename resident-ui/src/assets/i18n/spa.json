@@ -267,10 +267,6 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "Solicitud de gestión de ID",
                 "checked": false
-            },
-            "DATA_SHARE_REQUEST": {
-                "serviceType": "Solicitud de compartición de datos",
-                "checked": false
             }
         },
         "statusTypeFilter": {
@@ -547,8 +543,6 @@
         "otpPopupDescription": "Se ha enviado un OTP (One Time Password) a",
         "loginSuccessfully": "Estimado residente, has iniciado sesión exitosamente",
         "successRemainMsg": "para rastrear la solicitud de servicio con el EID prellenado.",
-        "passwordCombinationHeading": "Combinación de contraseña: ",
-        "passwordCombination": "Las primeras cuatro letras de tu nombre en mayúsculas y tu año de nacimiento. Por ejemplo: Si tu nombre es Johnny Depp y tu fecha de nacimiento es 09/06/1963, tu contraseña será JUAN1963.",
         "SuccessLogin": "Has iniciado sesión exitosamente.",
         "successLogout": "Has cerrado sesión exitosamente.",
         "dearResident": "Estimado residente,",
@@ -607,7 +601,7 @@
             "deletedSuccessfully": "Se ha eliminado tu VID exitosamente para el ID de evento: $eventId."
         },
         "personalisedcardMessages": {
-            "downloadedSuccessFully": "Tu tarjeta personalizada se ha descargado correctamente para el ID de evento: $eventId. La contraseña se enviará a tu dirección de correo electrónico o número de teléfono registrado."
+            "downloadedSuccessFully": "Tu tarjeta personalizada se ha descargado correctamente para el ID de evento: $eventId."
         },
         "sharewithpartner": {
             "needPartner": "Por favor, elige un socio para continuar.",
