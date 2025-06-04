@@ -267,10 +267,6 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "ID Management Request",
                 "checked": false
-            },
-            "DATA_SHARE_REQUEST": {
-                "serviceType": "Data Share Request",
-                "checked": false
             }
         },
         "statusTypeFilter": {
@@ -547,8 +543,6 @@
         "otpPopupDescription": "One Time Password (OTP) has been sent to",
         "loginSuccessfully": "Dear resident, you logged in complected successfully",
         "successRemainMsg": "to track service request with pre-filled EID.",
-        "passwordCombinationHeading": "Password combination: ",
-        "passwordCombination": "First four letters of your first name in capital letters and your year of birth. E.g.: If your name is Johnny Depp and your birthdate is 09/06/1963, your password will be JOHN1963.",
         "SuccessLogin": "You have successfully logged in.",
         "successLogout": "You have successfully logged out. ",
         "dearResident": "Dear Resident,",
@@ -607,7 +601,7 @@
             "deletedSuccessfully": "Your VID has been successfully deleted against the Event ID: $eventId."
         },
         "personalisedcardMessages": {
-            "downloadedSuccessFully": "Your personalized card has been successfully downloaded against the Event ID: $eventId. The password will be sent to your registered email ID or phone number."
+            "downloadedSuccessFully": "Your personalized card has been successfully downloaded against the Event ID: $eventId."
         },
         "sharewithpartner": {
             "needPartner": "Kindly choose a partner to proceed.",
