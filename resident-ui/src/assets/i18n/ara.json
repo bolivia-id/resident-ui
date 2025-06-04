@@ -267,10 +267,6 @@
             "ID_MANAGEMENT_REQUEST": {
                 "serviceType": "طلب إدارة المعرف",
                 "checked": false
-            },
-            "DATA_SHARE_REQUEST": {
-                "serviceType": "طلب مشاركة البيانات",
-                "checked": false
             }
         },
         "statusTypeFilter": {
@@ -547,8 +543,6 @@
         "otpPopupDescription": "تم إرسال رمز المرور لمرة واحدة (OTP) إلى",
         "loginSuccessfully": "عزيزي المقيم ، تم تسجيل دخولك بنجاح",
         "successRemainMsg": "لتتبع طلب الخدمة باستخدام EID مملوء مسبقًا.",
-        "passwordCombinationHeading": "تركيبة كلمة المرور: ",
-        "passwordCombination": "الأربعة أحرف الأولى من اسمك الأول بحروف كبيرة وسنة ميلادك. على سبيل المثال: إذا كان اسمك Johnny Depp وتاريخ ميلادك هو 09/06/1963، سيكون كلمة المرور الخاصة بك JOHN1963.",        "SuccessLogin": "لقد سجلت الدخول بنجاح.",
         "successLogout": "لقد قمت بتسجيل الخروج بنجاح. ",
         "dearResident": "عزيزي المقيم،",
         "trackStatusText": "لتتبع حالة الحدث ، انقر ",
@@ -606,7 +600,7 @@
             "deletedSuccessfully": "تم حذف VID الخاص بك بنجاح بالنسبة لرقم الحدث: $eventId."
         },
         "personalisedcardMessages": {
-            "downloadedSuccessFully": "تم تنزيل بطاقتك المخصصة بنجاح بالنسبة لرقم الحدث: $eventId. سيتم إرسال كلمة المرور إلى عنوان البريد الإلكتروني المسجل أو رقم الهاتف الخاص بك."
+            "downloadedSuccessFully": "تم تنزيل بطاقتك المخصصة بنجاح بالنسبة لرقم الحدث: $eventId."
         },
         "sharewithpartner": {
             "needPartner": "يرجى اختيار شريك للمتابعة.",
