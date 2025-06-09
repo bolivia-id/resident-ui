@@ -3,7 +3,7 @@ name: Resident ui manual push
 on: workflow_dispatch
 
 jobs:
-  build-admin-ui:
+  build-resident-ui:
 
     runs-on: ubuntu-latest
     env:
