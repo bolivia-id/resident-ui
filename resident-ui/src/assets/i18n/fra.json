@@ -2,7 +2,7 @@
     "menuItems": [
         {
             "displayName": "Services UIN",
-            "displaydescription": "Les résidents peuvent utiliser ces services pour consulter, mettre à jour, gérer ou partager leurs données. Ils peuvent également signaler un problème en cas de réclamation.",
+            "displaydescription": "Les résidents peuvent utiliser ces services pour consulter, mettre à jour et gérer leurs données. Ils peuvent également signaler un problème en cas de réclamation.",
             "availableServicesDescription": "Voici les services disponibles :",
             "icon": "./assets/icons/iconfont/uin_services.svg",
             "activeIcon": "./assets/icons/iconfont/uin_services_active.svg",
@@ -143,7 +143,7 @@
         "document": "Liste des documents justificatifs",
         "verify": "Vérifier le numéro de téléphone/ l'adresse e-mail",
         "uinservices": "Services UIN",
-        "uindescription": "Les résidents peuvent utiliser ces services pour consulter, mettre à jour, modifier, gérer ou partager leurs données. Ils peuvent également signaler un problème en cas de réclamation."
+        "uindescription": "Les résidents peuvent utiliser ces services pour consulter, mettre à jour et gérer leurs données. Ils peuvent également signaler un problème en cas de réclamation."
     },
     "uinservices": {
         "login": "Connexion",

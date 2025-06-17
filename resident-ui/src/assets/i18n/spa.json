@@ -2,7 +2,7 @@
     "menuItems": [
         {
             "displayName": "Servicios de UIN",
-            "displaydescription": "Los residentes pueden utilizar estos servicios para ver, actualizar, gestionar o compartir sus datos. También pueden informar un problema en caso de una queja.",
+            "displaydescription": "Los residentes pueden utilizar estos servicios para ver, actualizar y administrar sus datos. También pueden informar un problema en caso de una queja.",
             "availableServicesDescription": "A continuación se muestran los servicios disponibles:",
             "icon": "./assets/icons/iconfont/uin_services.svg",
             "activeIcon": "./assets/icons/iconfont/uin_services_active.svg",
@@ -143,7 +143,7 @@
         "document": "Lista de documentos de respaldo",
         "verify": "Verificar número de teléfono/correo electrónico",
         "uinservices": "Servicios de UIN",
-        "uindescription": "Los residentes pueden utilizar estos servicios para ver, actualizar, cambiar, gestionar o compartir sus datos. También pueden informar un problema en caso de una queja."
+        "uindescription": "Los residentes pueden utilizar estos servicios para ver, actualizar y administrar sus datos. También pueden informar un problema en caso de una queja."
     },
     "uinservices": {
         "login": "Iniciar sesión",
